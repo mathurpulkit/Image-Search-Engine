@@ -14,6 +14,17 @@ The search engine takes an image address as input and outputs similar images fro
 ## Dataset Used
 The dataset used in this project is a custom dataset containing 29 images of size 400*166. The images are taken from 4 popular TV/Movie Series, namely The Big Bang Theory, HouseMD, The Hobbit and The Simpsons. 
 
+## Example
+
+### Input Image
+
+![Input Image](outputs/test.jpg)
+
+### Output Images
+
+![Output Image 1](outputs/op1.jpg)
+![Output Image 2](outputs/op2.jpg)
+
 ## Contributors
 - [Pulkit Mathur](https://github.com/mathurpulkit)
 - [Rishabh Verma](https://github.com/RiVer2000)
