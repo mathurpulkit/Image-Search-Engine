@@ -12,7 +12,7 @@ The search engine takes an image address as input and outputs similar images fro
 6. The similarity test runs through all the images and then the program exits.
 
 ## Dataset Used
-The dataset used in this project is a custom dataset containing 29 images of size 400*166. The images are taken from 4 popular TV Series, namely The Big Bang Theory, HouseMD, The Hobbit and The Simpsons. 
+The dataset used in this project is a custom dataset containing 29 images of size 400*166. The images are taken from 4 popular TV/Movie Series, namely The Big Bang Theory, HouseMD, The Hobbit and The Simpsons. 
 
 ## Contributors
 - [Pulkit Mathur](https://github.com/mathurpulkit)
