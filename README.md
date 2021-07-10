@@ -22,7 +22,8 @@ The dataset used in this project is a custom dataset containing 29 images of siz
 
 ### Output Images
 
-![Output Image 1](outputs/op1.jpg)
+![Output Image 1](outputs/op1.jpg)  
+
 ![Output Image 2](outputs/op2.jpg)
 
 ## Contributors
